@@ -1,2 +1,3 @@
-# CC0-CAT
-we have cats in the public domain
+![cc0 cat](/cc0.png)
+
+we have cats in the public domain. meow
